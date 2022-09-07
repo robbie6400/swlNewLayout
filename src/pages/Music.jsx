@@ -1,12 +1,11 @@
 import React from 'react'
-import Slideshow from "../components/Slideshow";
 import Navbar from "../components/Navbar";
 
-export default function Home() {
+export default function Music() {
   return (
     <div>
         <Navbar />
-        Home
+        Music
     </div>
   )
 }
