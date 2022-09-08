@@ -25,5 +25,5 @@ video {
     justify-content: center;
     align-items: center;
     color: white;
-    font-size: clamp(1rem, 10vw, 2rem);
+    font-size: clamp(10%, 150%, 200%);
 }
