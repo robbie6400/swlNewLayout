@@ -1,16 +1,16 @@
 import React from "react";
 import {Outlet} from "react-router-dom";
-import HeadingText from '../components/HeadingText';
+import Navbar from "../components/Navbar";
 import EmailMe from '../components/EmailMe';
 import Contact from '../components/Contact';
 
 const Layout = () => {
   return (
     <>    
-      {/* <HeadingText /> */}
+      <Navbar />
       <Outlet />
       <EmailMe />
-      <Contact />
+      <Contact /> 
     </>
   );
 };

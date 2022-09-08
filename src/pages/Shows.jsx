@@ -1,14 +1,15 @@
 import React from 'react'
-import Navbar from "../components/Navbar";
+import '../css/Shows.css';
+import HeadingText from '../components/HeadingText';
 import AllShows from '../components/AllShows';
-
 
 export default function Shows() {
   return (
-    <div>
-        <Navbar />
-        Shows
-        {/* <AllShows /> */}
+    <div className='shows'>
+        <HeadingText />
+        <div className='showsList'>
+          <AllShows />
+        </div>
     </div>
   )
 }

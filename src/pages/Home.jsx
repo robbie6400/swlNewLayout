@@ -1,12 +1,11 @@
 import React from 'react'
-import Slideshow from "../components/Slideshow";
-import Navbar from "../components/Navbar";
+import '../css/Home.css';
+import VideoBg from "../components/VideoBg";
 
 export default function Home() {
   return (
-    <div>
-        <Navbar />
-        Home
+    <div className='home'>
+      <VideoBg />
     </div>
   )
 }

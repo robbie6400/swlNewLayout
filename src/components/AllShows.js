@@ -9,8 +9,6 @@ export default function AllShows() {
     "July", "August", "September", "October", "November", "December", "January", "February"];
   
     const current = new Date();
-    const date = `${current.getDate()}/${current.getMonth()+1}/${current.getFullYear()}`;
-    const currMonth = current.getMonth();
     const currYear = current.getFullYear();
   
     useEffect(() => {
@@ -194,7 +192,6 @@ export default function AllShows() {
                   })}
   
               <h3>----------------------------------------</h3>
-              <br /><br /><br /><br /><br /><br /><br />
 
             </Table.Body>
           </Table>

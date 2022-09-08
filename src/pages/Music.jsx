@@ -1,11 +1,14 @@
 import React from 'react'
-import Navbar from "../components/Navbar";
+import '../css/Music.css';
+import HeadingText from '../components/HeadingText';
 
 export default function Music() {
   return (
-    <div>
-        <Navbar />
-        Music
+    <div className='music'>
+        <HeadingText />
+        <div>
+          Music
+        </div>
     </div>
   )
 }

@@ -1,8 +1,14 @@
+.contact {
+  padding-top: 10px;
+}
+
 .iconList_ul {
     list-style-type: none;
     margin-left: auto ;
     margin-right: auto ;
     padding: 0;
+    padding-top: 12px;
+    padding-bottom: 12px;
   }
 
 .iconList_li {

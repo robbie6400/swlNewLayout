@@ -1,12 +1,14 @@
 import React from 'react'
-import Navbar from "../components/Navbar";
-
+import '../css/About.css';
+import HeadingText from '../components/HeadingText';
 
 export default function About() {
   return (
-    <div>
-        <Navbar />
-        About
+    <div className='about'>
+        <HeadingText />
+        <div>
+          About
+        </div>
     </div>
   )
 }

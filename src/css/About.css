@@ -1,0 +1,4 @@
+.about {
+    padding-top: clamp(1%, 2%, 3%);
+    padding-bottom: clamp(1%, 2%, 2%);
+}
