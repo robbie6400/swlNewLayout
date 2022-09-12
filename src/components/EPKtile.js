@@ -8,7 +8,7 @@ export default function EPKtile() {
           <h3>Download my EPK:</h3>
         </div>
         <div className='button'>
-          <h5>button coming</h5>
+          <a href='/public/test.pdf' download>Click to download</a>
         </div>
     </div>
   )

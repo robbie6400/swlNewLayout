@@ -5,3 +5,30 @@
     color: goldenrod;
 }
 
+.button {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+}
+
+.button a:link{
+    color: white;
+    border: 1;
+    border-style: solid;
+    border-color: goldenrod;
+    background-color: rgb(51, 51, 51);
+    border-radius: 20px;
+    padding: 2%;
+    width: 30%;
+    text-decoration: none;
+ }
+
+.button a:visited{
+    color:white;
+}
+
+.button a:hover{
+    color: black;
+    border-color: goldenrod;
+    background-color: goldenrod;
+}
