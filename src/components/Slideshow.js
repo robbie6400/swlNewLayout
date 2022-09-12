@@ -1,4 +1,5 @@
 import React from "react";
+import '../css/Slideshow.css';
 import { Fade } from "react-slideshow-image";
 import "react-slideshow-image/dist/styles.css";
 import skyler1 from "../images/skyler.jpg"

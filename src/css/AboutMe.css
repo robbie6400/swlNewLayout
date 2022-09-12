@@ -1,0 +1,10 @@
+.aboutMe {
+    padding-top: clamp(1%, 2%, 3%);
+    padding-bottom: clamp(1%, 2%, 2%);
+}
+
+.descPara {
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: clamp(.5rem, 2.5vw, 1em); 
+}

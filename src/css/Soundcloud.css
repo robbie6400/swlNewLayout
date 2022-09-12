@@ -1,0 +1,23 @@
+.soundcloud {
+    padding-top: clamp(1%, 2%, 3%);
+    padding-bottom: clamp(1%, 2%, 2%);
+}
+
+.soundcloudPlayers ul {
+    list-style-type: none;
+    margin-left: auto ;
+    margin-right: auto ;
+    padding: 0;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+    
+.soundcloudPlayers li {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.soundcloudPlayers iframe {
+    height: clamp(120px, 150px, 150px);
+    width: clamp(50%, 65%, 550px);
+}

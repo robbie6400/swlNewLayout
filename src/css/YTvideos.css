@@ -1,0 +1,23 @@
+.YTvideos {
+    padding-top: clamp(1%, 2%, 3%);
+    padding-bottom: clamp(1%, 2%, 2%);
+}
+
+.YTvideos ul {
+    list-style-type: none;
+    margin-left: auto ;
+    margin-right: auto ;
+    padding: 0;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+    
+.YTvideos li {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.YTvideos iframe {
+    height: clamp(120px, 350px, 350px);
+    width: clamp(35%, 70%, 550px);
+}
