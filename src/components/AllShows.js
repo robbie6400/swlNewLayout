@@ -12,7 +12,7 @@ export default function AllShows() {
     const currYear = current.getFullYear();
   
     useEffect(() => {
-      axios.get('https://skylershows-9df9.restdb.io/rest/skyler-whitfield-live-shows?&apikey=62d843fb1e03721dd87cd693')
+      axios.get('https://skylershows-dce3.restdb.io/rest/skyler-whitfield-live-shows?&apikey=63a290def43a573dae095661')
       .then((incomingData) => {
         setAPIdata(incomingData.data)
         console.log(incomingData.data)
