@@ -26,7 +26,7 @@ export default function ShowDates({shows}) {
         <Table>
           <Table.Body>
             {APIdata.filter((data)=>{
-                  return data.MonthNum === currMonth+1 && data.Day <= currDay+7 && data.Day >= currDay
+                  return data.MonthNum === currMonth
                 }).map((data) => {
                   return (
                     <Table.Row>
