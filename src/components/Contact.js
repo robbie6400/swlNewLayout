@@ -10,9 +10,9 @@ export default function Contact() {
             skyler.greensboro@gmail.com <br /></h4>
             <div>
               <ul className="iconList_ul">
-                <li className="iconList_li"><SocialIcon url="https://www.facebook.com/SkylerWhitfieldLive/" network="facebook" bgColor="gold" /></li>
-                <li className="iconList_li"><SocialIcon url="https://www.youtube.com/channel/UC2PDKc7mezW8bSkvv0NiyKQ/" network="youtube" bgColor="gold" /></li>
-                <li className="iconList_li"><SocialIcon url="https://www.soundcloud.com/user-238870048/" network="soundcloud" bgColor="gold" /></li>
+                <li className="iconList_li"><SocialIcon url="https://www.facebook.com/SkylerWhitfieldLive/" network="facebook" bgColor="blue" /></li>
+                <li className="iconList_li"><SocialIcon url="https://www.youtube.com/channel/UC2PDKc7mezW8bSkvv0NiyKQ/" network="youtube" bgColor="blue" /></li>
+                <li className="iconList_li"><SocialIcon url="https://www.soundcloud.com/user-238870048/" network="soundcloud" bgColor="blue" /></li>
               </ul>
             </div>
 

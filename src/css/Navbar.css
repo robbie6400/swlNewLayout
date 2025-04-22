@@ -32,7 +32,7 @@
 }
 
 .layoutHomePage_li a:hover {
-  background-color: yellow;
+  background-color: rgb(70, 86, 255);
   
   color: black;
 }
