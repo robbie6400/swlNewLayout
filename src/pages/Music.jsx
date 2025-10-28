@@ -9,7 +9,7 @@ export default function Music() {
     <div className='music'>
         <HeadingText />
         <div>
-          <YTvideos />
+          {/* <YTvideos /> */}
           <Soundcloud />
         </div>
     </div>

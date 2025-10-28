@@ -11,13 +11,22 @@ function Navbar() {
                 <Link to="/"><b>HOME</b></Link>
             </li>
             <li className="layoutHomePage_li">
-                <Link to="/calendar"><b>CALENDAR</b></Link>
+                <Link to="/merch"><b>ABOUT</b></Link>
+            </li>
+            <li className="layoutHomePage_li">
+                <Link to="/calendar"><b>SHOWS</b></Link>
             </li>
             <li className="layoutHomePage_li">
                 <Link to="/music"><b>MUSIC</b></Link>
             </li>
             <li className="layoutHomePage_li">
-                <Link to="/merch"><b>MERCH</b></Link>
+                <Link to="/merch"><b>PHOTOS</b></Link>
+            </li>
+            <li className="layoutHomePage_li">
+                <Link to="/merch"><b>VIDEOS</b></Link>
+            </li>
+            <li className="layoutHomePage_li">
+                <Link to="/merch"><b>CONTACT</b></Link>
             </li>
         </ul>
     </nav>

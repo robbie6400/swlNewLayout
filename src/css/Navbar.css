@@ -18,7 +18,7 @@
 .layoutHomePage_li {
   float: left;
   padding: 0;
-  width: 25%;
+  width: 14.2857143%;
   margin-left: auto ;
   margin-right: auto ;
 }
@@ -32,7 +32,7 @@
 }
 
 .layoutHomePage_li a:hover {
-  background-color: rgb(70, 86, 255);
+  background-color: #9e0619;
   
   color: black;
 }
