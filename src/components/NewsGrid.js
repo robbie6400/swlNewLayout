@@ -6,11 +6,9 @@ import NextShows from './NextShows'
 export default function NewsGrid() {
   return (
     <div className='newsGrid'>
+        <NextShows />
         <div className='homeGrid'>
             <ul>
-                <li>
-                  <NextShows />
-                </li>
                 <li>
                   <EPKtile />
                 </li>
