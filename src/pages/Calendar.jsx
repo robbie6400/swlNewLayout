@@ -1,7 +1,7 @@
 import React from 'react'
 import '../css/Shows.css';
 import HeadingText from '../components/HeadingText';
-import AllShows from '../components/AllShows';
+import ShowDates from '../components/ShowDates';
 
 export default function Calendar() {
   return (
@@ -9,7 +9,7 @@ export default function Calendar() {
       <br />
         <HeadingText />
         <div className='showsList'>
-          <AllShows />
+          <ShowDates />
         </div>
     </div>
   )

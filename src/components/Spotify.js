@@ -1,5 +1,5 @@
 import React from 'react'
-import '../css/Soundcloud.css'
+import '../css/Spotify.css'
 
 export default function SoundCloud() {
   return (

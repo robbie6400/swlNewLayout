@@ -4,7 +4,7 @@
   padding: 0;
   padding-top: 3px;
   overflow: hidden;
-  background-color: rgb(51, 51, 51);
+  background-color: rgb(74, 74, 74);
   position: -webkit-sticky; /* Safari */
   position: sticky;
   top: 0;
@@ -34,6 +34,6 @@
 .layoutHomePage_li a:hover {
   background-color: #9e0619;
   
-  color: black;
+  color: white;
 }
 

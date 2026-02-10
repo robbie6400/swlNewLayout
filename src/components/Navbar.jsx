@@ -11,7 +11,7 @@ function Navbar() {
                 <Link to="/"><b>HOME</b></Link>
             </li>
             <li className="layoutHomePage_li">
-                <Link to="/merch"><b>ABOUT</b></Link>
+                <Link to="/about"><b>ABOUT</b></Link>
             </li>
             <li className="layoutHomePage_li">
                 <Link to="/calendar"><b>SHOWS</b></Link>
@@ -20,13 +20,13 @@ function Navbar() {
                 <Link to="/music"><b>MUSIC</b></Link>
             </li>
             <li className="layoutHomePage_li">
-                <Link to="/merch"><b>PHOTOS</b></Link>
+                <Link to="/photos"><b>PHOTOS</b></Link>
             </li>
             <li className="layoutHomePage_li">
-                <Link to="/merch"><b>VIDEOS</b></Link>
+                <Link to="/videos"><b>VIDEOS</b></Link>
             </li>
             <li className="layoutHomePage_li">
-                <Link to="/merch"><b>CONTACT</b></Link>
+                <Link to="/contact"><b>CONTACT</b></Link>
             </li>
         </ul>
     </nav>

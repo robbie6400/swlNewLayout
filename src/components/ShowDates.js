@@ -30,7 +30,7 @@ export default function ShowDates({shows}) {
         data-artist-name="id_15550492"
         data-events-to-display=""
         data-background-color="rgba(0,0,0,1)"
-        data-separator-color="rgba(255,249,0,1)"
+        data-separator-color="rgba(158,6,25,1)"
         data-text-color="rgba(253,253,253,1)"
         data-font="Arial"
         data-auto-style="true"
@@ -110,7 +110,7 @@ export default function ShowDates({shows}) {
         data-app-id="6e4679e5b2e492ff8f07b3e62cf54681"
         data-affil-code=""
         data-bit-logo-position="bottomRight"
-        data-bit-logo-color="rgba(253,253,253,1)"
+        data-bit-logo-color="rgb(0, 0, 0)"
       ></a>
     </div>
   )

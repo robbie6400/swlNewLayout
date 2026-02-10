@@ -1,16 +1,15 @@
 import React from 'react'
 import '../css/Music.css';
 import HeadingText from '../components/HeadingText';
-import YTvideos from '../components/YTvideos';
-import Soundcloud from '../components/SoundCloud';
+import Spotify from '../components/Spotify';
 
 export default function Music() {
   return (
     <div className='music'>
         <HeadingText />
         <div>
-          {/* <YTvideos /> */}
-          <Soundcloud />
+          
+          <Spotify />
         </div>
     </div>
   )
