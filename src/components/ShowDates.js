@@ -5,7 +5,6 @@ export default function ShowDates({shows}) {
   const current = new Date();
   const currMonth = current.getMonth();
   const currDay = current.getDate();
-
   console.log(currDay);
 
   useEffect(() => {
