@@ -18,7 +18,7 @@ export default function YTvideos() {
             <iframe title="myYoutubeFrame1" src="https://www.youtube.com/embed/vFe5fx0UeSw" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
           </li>    
           <li>    
-            <iframe title="myYoutubeFrame2" src="https://www.youtube.com/embed/hu_TtXxSyU4" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+            <iframe title="myYoutubeFrame2" src="https://www.youtube.com/embed/C8358-5rMJo?si=Sr6aZi_PsqscEdu8" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
           </li>
         </ul>
       

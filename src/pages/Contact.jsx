@@ -7,7 +7,8 @@ export default function Contact() {
     <div>
         <HeadingText />
         <div>
-          <EPKtile />
+          <br />
+          {/* <EPKtile /> */}
         </div>
     </div>
   )

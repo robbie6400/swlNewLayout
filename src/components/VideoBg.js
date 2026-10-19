@@ -8,8 +8,8 @@ export default function VideoBg() {
             <video src={videoBg} type='video/mp4' autoPlay loop muted style={{ WebkitMediaControls: 'display(none)' }} />
             <div className='frontContent'>
                 <h1>Skyler Whitfield Live</h1>
-                <h2>Musician, Singer, Guitar, Bass, Lessons
-                <br />Voice-overs, On-air talent</h2>
+                <h2>- Live Music Americana - <br />
+                Rock, Folk, Outlaw Country, & Celtic</h2>
             </div>
     </div>
   )
